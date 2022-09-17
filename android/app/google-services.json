@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323741297232",
+    "project_id": "notes-docs",
+    "storage_bucket": "notes-docs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323741297232:android:7259b01b6d46e69715ff55",
+        "android_client_info": {
+          "package_name": "com.tushar.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323741297232-g5dlrr1c6ilbldoj2cl56rffbh32h19b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSeUzVkW5r_1f7Xu-9fY4WdR1pUST6ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323741297232-g5dlrr1c6ilbldoj2cl56rffbh32h19b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
