@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage> {
                 ],
               );
             default:
-              return const Text('Loading..');
+              return const Text("It's Loading..");
           }
         },
       ),
