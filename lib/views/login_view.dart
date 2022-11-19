@@ -30,80 +30,143 @@ class _LoginViewState extends State<LoginView> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Login'),
+    return Container(
+      decoration: const BoxDecoration(
+        image: DecorationImage(
+            image: AssetImage(
+              'assets/1.jpg',
+            ),
+            fit: BoxFit.cover),
       ),
-      body: Column(
-        children: [
-          TextField(
-            controller: _email,
-            enableSuggestions: false,
-            autocorrect: false,
-            keyboardType: TextInputType.emailAddress,
-            decoration: const InputDecoration(
-              hintText: 'Enter your email here',
+      child: Scaffold(
+        backgroundColor: Colors.transparent,
+        body: Stack(
+          children: [
+            Container(),
+            /* Container(
+              padding: const EdgeInsets.only(left: 35, top: 200),
+               child: Text(
+                'Create\nAccount',
+                style: TextStyle(color: Colors.white, fontSize: 33),
+              )
+            ),*/
+            SingleChildScrollView(
+              child: Container(
+                padding: EdgeInsets.only(
+                    top: MediaQuery.of(context).size.height * 0.28),
+                child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Container(
+                        margin: const EdgeInsets.only(
+                            top: 230, left: 35, right: 35),
+                        child: Column(
+                          children: [
+                            TextField(
+                              controller: _email,
+                              enableSuggestions: false,
+                              autocorrect: false,
+                              keyboardType: TextInputType.emailAddress,
+                              style: const TextStyle(color: Colors.black),
+                              decoration: InputDecoration(
+                                  fillColor: Colors.grey.shade100,
+                                  filled: true,
+                                  hintText: "Email",
+                                  border: OutlineInputBorder(
+                                    borderRadius: BorderRadius.circular(20),
+                                  )),
+                            ),
+                            const SizedBox(
+                              height: 30,
+                            ),
+                            TextField(
+                              controller: _password,
+                              obscureText: true,
+                              enableSuggestions: false,
+                              autocorrect: false,
+                              style: const TextStyle(),
+                              decoration: InputDecoration(
+                                  fillColor: Colors.grey.shade100,
+                                  filled: true,
+                                  hintText: "Password",
+                                  border: OutlineInputBorder(
+                                    borderRadius: BorderRadius.circular(20),
+                                  )),
+                            ),
+                            const SizedBox(
+                              height: 20,
+                            ),
+                            TextButton(
+                              onPressed: () async {
+                                final email = _email.text;
+                                final password = _password.text;
+                                try {
+                                  await FirebaseAuth.instance
+                                      .signInWithEmailAndPassword(
+                                    email: email,
+                                    password: password,
+                                  );
+                                  // ignore: use_build_context_synchronously
+                                  Navigator.of(context).pushNamedAndRemoveUntil(
+                                    travelRoute,
+                                    (route) => false,
+                                  );
+                                } on FirebaseAuthException catch (e) {
+                                  if (e.code == 'user-not-found') {
+                                    await showErrorDialog(
+                                      context,
+                                      'User not found',
+                                    );
+                                  } else if (e.code == 'wrong-password') {
+                                    await showErrorDialog(
+                                      context,
+                                      'Wrong Credentials',
+                                    );
+                                  } else {
+                                    await showErrorDialog(
+                                      context,
+                                      'Error: ${e.code}',
+                                    );
+                                  }
+                                } catch (e) {
+                                  await showErrorDialog(
+                                    context,
+                                    e.toString(),
+                                  );
+                                }
+                              },
+                              child: const Text(
+                                'Sign In',
+                                style: TextStyle(
+                                    color: Colors.black,
+                                    fontSize: 30,
+                                    fontWeight: FontWeight.w900),
+                              ),
+                            ),
+                            TextButton(
+                              onPressed: () {
+                                Navigator.of(context).pushNamedAndRemoveUntil(
+                                  registerRoute,
+                                  (route) => false,
+                                );
+                              },
+                              child: const Text(
+                                'Not Registered yet? Register here',
+                                textAlign: TextAlign.left,
+                                style: TextStyle(
+                                    decoration: TextDecoration.underline,
+                                    color: Colors.black,
+                                    fontSize: 20),
+                              ),
+                            ),
+                          ],
+                        ),
+                      )
+                    ]),
+              ),
             ),
-          ),
-          TextField(
-            controller: _password,
-            obscureText: true,
-            enableSuggestions: false,
-            autocorrect: false,
-            decoration: const InputDecoration(
-              hintText: 'Enter your password here',
-            ),
-          ),
-          TextButton(
-            onPressed: () async {
-              final email = _email.text;
-              final password = _password.text;
-              try {
-                await FirebaseAuth.instance.signInWithEmailAndPassword(
-                  email: email,
-                  password: password,
-                );
-                // ignore: use_build_context_synchronously
-                Navigator.of(context).pushNamedAndRemoveUntil(
-                  notesRoute,
-                  (route) => false,
-                );
-              } on FirebaseAuthException catch (e) {
-                if (e.code == 'user-not-found') {
-                  await showErrorDialog(
-                    context,
-                    'User not found',
-                  );
-                } else if (e.code == 'wrong-password') {
-                  await showErrorDialog(
-                    context,
-                    'Wrong Credentials',
-                  );
-                } else {
-                  await showErrorDialog(
-                    context,
-                    'Error: ${e.code}',
-                  );
-                }
-              } catch (e) {
-                await showErrorDialog(
-                  context,
-                  e.toString(),
-                );
-              }
-            },
-            child: const Text('Login'),
-          ),
-          TextButton(
-            onPressed: () {
-              Navigator.of(context).pushNamedAndRemoveUntil(
-                registerRoute,
-                (route) => false,
-              );
-            },
-            child: const Text('Not Registered yet? Register here'),
-          )
-        ],
+          ],
+        ),
       ),
     );
   }
