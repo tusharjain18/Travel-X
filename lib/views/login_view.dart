@@ -136,37 +136,46 @@ class _LoginViewState extends State<LoginView> {
                                     fontWeight: FontWeight.w900),
                               ),
                             ),
-                            TextButton(
-                              onPressed: () {
-                                Navigator.of(context).pushNamedAndRemoveUntil(
-                                  registerRoute,
-                                  (route) => false,
-                                );
-                              },
-                              child: const Text(
-                                'Not Registered yet? Register here',
-                                textAlign: TextAlign.left,
-                                style: TextStyle(
-                                    decoration: TextDecoration.underline,
-                                    color: Colors.black,
-                                    fontSize: 20),
-                              ),
+                            const SizedBox(
+                              height: 20,
                             ),
-                            TextButton(
-                              onPressed: () {
-                                Navigator.of(context).pushNamedAndRemoveUntil(
-                                  travelRoute,
-                                  (route) => false,
-                                );
-                              },
-                              child: const Text(
-                                'Skip',
-                                style: TextStyle(
-                                    color: Colors.black,
-                                    fontSize: 30,
-                                    fontWeight: FontWeight.w900),
-                              ),
-                            ),
+                            Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                              children: [
+                                TextButton(
+                                  onPressed: () {
+                                    Navigator.of(context)
+                                        .pushNamedAndRemoveUntil(
+                                      travelRoute,
+                                      (route) => false,
+                                    );
+                                  },
+                                  child: const Text(
+                                    'Skip',
+                                    style: TextStyle(
+                                        decoration: TextDecoration.underline,
+                                        color: Colors.black,
+                                        fontSize: 25),
+                                  ),
+                                ),
+                                TextButton(
+                                  onPressed: () {
+                                    Navigator.of(context)
+                                        .pushNamedAndRemoveUntil(
+                                      registerRoute,
+                                      (route) => false,
+                                    );
+                                  },
+                                  child: const Text(
+                                    'Register Here',
+                                    style: TextStyle(
+                                        decoration: TextDecoration.underline,
+                                        color: Colors.black,
+                                        fontSize: 25),
+                                  ),
+                                ),
+                              ],
+                            )
                           ],
                         ),
                       )
