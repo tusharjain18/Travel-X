@@ -167,7 +167,7 @@ class _LoginViewState extends State<LoginView> {
                                     );
                                   },
                                   child: const Text(
-                                    'Register Here',
+                                    'Register-Here',
                                     style: TextStyle(
                                         decoration: TextDecoration.underline,
                                         color: Colors.black,
