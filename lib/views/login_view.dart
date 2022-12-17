@@ -43,13 +43,6 @@ class _LoginViewState extends State<LoginView> {
         body: Stack(
           children: [
             Container(),
-            /* Container(
-              padding: const EdgeInsets.only(left: 35, top: 200),
-               child: Text(
-                'Create\nAccount',
-                style: TextStyle(color: Colors.white, fontSize: 33),
-              )
-            ),*/
             SingleChildScrollView(
               child: Container(
                 padding: EdgeInsets.only(
@@ -157,6 +150,21 @@ class _LoginViewState extends State<LoginView> {
                                     decoration: TextDecoration.underline,
                                     color: Colors.black,
                                     fontSize: 20),
+                              ),
+                            ),
+                            TextButton(
+                              onPressed: () {
+                                Navigator.of(context).pushNamedAndRemoveUntil(
+                                  travelRoute,
+                                  (route) => false,
+                                );
+                              },
+                              child: const Text(
+                                'Skip',
+                                style: TextStyle(
+                                    color: Colors.black,
+                                    fontSize: 30,
+                                    fontWeight: FontWeight.w900),
                               ),
                             ),
                           ],

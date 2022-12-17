@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:notes/constants/routes.dart';
 import 'package:notes/views/login_view.dart';
 import 'package:notes/views/register_view.dart';
+import 'package:notes/views/travel_view.dart';
 import 'package:notes/views/verify_email_view.dart';
 import 'firebase_options.dart';
 
@@ -80,6 +81,8 @@ class HomePage extends StatelessWidget {
 
 enum MenuAction { logout }
 
+/*
+
 class TravelView extends StatefulWidget {
   const TravelView({super.key});
 
@@ -133,6 +136,7 @@ class _TravelViewState extends State<TravelView> {
   }
 }
 
+*/
 Future<bool> showLogOutDialog(BuildContext context) {
   return showDialog<bool>(
     context: context,
