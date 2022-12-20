@@ -1,5 +1,3 @@
-import 'package:notes/main.dart';
-
 const loginRoute = '/login/';
 const registerRoute = '/register/';
 const travelRoute = '/travel/';
