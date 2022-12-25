@@ -11,9 +11,9 @@ class _UserViewState extends State<UserView> {
   @override
   Widget build(BuildContext context) => Scaffold(
         appBar: AppBar(
-          title: Text('User'),
+          title: const Text('User'),
         ),
-        body: Center(
+        body: const Center(
             child: Text(
           'User',
           style: TextStyle(fontSize: 60),
