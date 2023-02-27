@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC6CSGY2MEl-qY1lQEOa5Kv5pH_IKcH8Os',
-    appId: '1:323741297232:web:be957f287fb8a41d15ff55',
-    messagingSenderId: '323741297232',
-    projectId: 'notes-docs',
-    authDomain: 'notes-docs.firebaseapp.com',
-    storageBucket: 'notes-docs.appspot.com',
+    apiKey: 'AIzaSyCwGVPMMbMHZ9KepMnaSbppiR5mb-6wcDs',
+    appId: '1:249585137783:web:e966fc9854f0cf39312e72',
+    messagingSenderId: '249585137783',
+    projectId: 'travelx-1b811',
+    authDomain: 'travelx-1b811.firebaseapp.com',
+    storageBucket: 'travelx-1b811.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBvSeUzVkW5r_1f7Xu-9fY4WdR1pUST6ig',
-    appId: '1:323741297232:android:7259b01b6d46e69715ff55',
-    messagingSenderId: '323741297232',
-    projectId: 'notes-docs',
-    storageBucket: 'notes-docs.appspot.com',
+    apiKey: 'AIzaSyAUFcepMjp5-FQ7hvfhxR8Vh1t9so6GTu8',
+    appId: '1:249585137783:android:49512441f10d648f312e72',
+    messagingSenderId: '249585137783',
+    projectId: 'travelx-1b811',
+    storageBucket: 'travelx-1b811.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDYyMA8uzv82LQmQXQCPb5mw2gStvbqyG8',
-    appId: '1:323741297232:ios:738a4f9a4050949815ff55',
-    messagingSenderId: '323741297232',
-    projectId: 'notes-docs',
-    storageBucket: 'notes-docs.appspot.com',
-    iosClientId: '323741297232-37fu745081bvl41vin2g5jh0vldgh8ej.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCuQy4lhKq3XElBC-7EzZxMgIdVRAyutUw',
+    appId: '1:249585137783:ios:ed5fccbfc79526b4312e72',
+    messagingSenderId: '249585137783',
+    projectId: 'travelx-1b811',
+    storageBucket: 'travelx-1b811.appspot.com',
+    iosClientId: '249585137783-5ers90m3470njmk93hoj0v89q64jpgiq.apps.googleusercontent.com',
     iosBundleId: 'com.tushar.notes',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDYyMA8uzv82LQmQXQCPb5mw2gStvbqyG8',
-    appId: '1:323741297232:ios:738a4f9a4050949815ff55',
-    messagingSenderId: '323741297232',
-    projectId: 'notes-docs',
-    storageBucket: 'notes-docs.appspot.com',
-    iosClientId: '323741297232-37fu745081bvl41vin2g5jh0vldgh8ej.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCuQy4lhKq3XElBC-7EzZxMgIdVRAyutUw',
+    appId: '1:249585137783:ios:ed5fccbfc79526b4312e72',
+    messagingSenderId: '249585137783',
+    projectId: 'travelx-1b811',
+    storageBucket: 'travelx-1b811.appspot.com',
+    iosClientId: '249585137783-5ers90m3470njmk93hoj0v89q64jpgiq.apps.googleusercontent.com',
     iosBundleId: 'com.tushar.notes',
   );
 }

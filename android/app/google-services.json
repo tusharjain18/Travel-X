@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249585137783",
+    "project_id": "travelx-1b811",
+    "storage_bucket": "travelx-1b811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249585137783:android:49512441f10d648f312e72",
+        "android_client_info": {
+          "package_name": "com.tushar.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249585137783-jn6onacpk6e420telvdjhfe7cfvbrv78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFcepMjp5-FQ7hvfhxR8Vh1t9so6GTu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249585137783-jn6onacpk6e420telvdjhfe7cfvbrv78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

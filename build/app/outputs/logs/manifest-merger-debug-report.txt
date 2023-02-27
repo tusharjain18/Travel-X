@@ -9,6 +9,8 @@ MERGED from [:cloud_firestore] C:\Users\TUSHAR JAIN\Travel-X\build\cloud_firesto
 MERGED from [:cloud_firestore] C:\Users\TUSHAR JAIN\Travel-X\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_core] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_core] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:19
+MERGED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:19
 MERGED from [:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
 MERGED from [:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
@@ -31,20 +33,18 @@ MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\TUSHAR JAIN\.g
 MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\38e97678fc0b2269e99f6580e70ed26a\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e201e9ad108cf5dd9bf454f2a581d29d\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e201e9ad108cf5dd9bf454f2a581d29d\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\8995b64f57965a8d98b9bcef0b9e6b51\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\8995b64f57965a8d98b9bcef0b9e6b51\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\2d36fe3092f409c15b974a0b68b21147\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\2d36fe3092f409c15b974a0b68b21147\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\47ce10f9968c307b4fad9a997816355e\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\47ce10f9968c307b4fad9a997816355e\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\3ff720be07735976176520d1c05fb799\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\3ff720be07735976176520d1c05fb799\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\3d8dcc37a877339951d4c25faeb59436\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\3d8dcc37a877339951d4c25faeb59436\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\67879e22102fb65217d23e347f5e9c0d\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\67879e22102fb65217d23e347f5e9c0d\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c97a283a0deda8e7d2554004b8fcb16e\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:28:5-44:19
 MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c97a283a0deda8e7d2554004b8fcb16e\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:28:5-44:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d34cc289fcee5007a6bf25d31fd478b0\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d34cc289fcee5007a6bf25d31fd478b0\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\67879e22102fb65217d23e347f5e9c0d\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\67879e22102fb65217d23e347f5e9c0d\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\50f3608d6be96fa042dcc4a95d39b3d1\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:29:5-30:19
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\50f3608d6be96fa042dcc4a95d39b3d1\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:29:5-30:19
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\f45d3ddf6a6d0ce7b4397de13b9a0e57\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
@@ -57,12 +57,12 @@ MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users
 MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\99062962e79ed1d83c983a5ecf518546\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\601d4158b382ad9f634d3bbb23a34c83\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\601d4158b382ad9f634d3bbb23a34c83\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.core:core:1.6.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\acbce933e4b464a5224ed377a62db1f5\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.6.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\acbce933e4b464a5224ed377a62db1f5\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d363e3b5616f580c766e3e2b3c05f27d\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d363e3b5616f580c766e3e2b3c05f27d\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c6290d38a27dcf8d064fa9cefcb89071\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c6290d38a27dcf8d064fa9cefcb89071\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.6.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\acbce933e4b464a5224ed377a62db1f5\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.8.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d363e3b5616f580c766e3e2b3c05f27d\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:name
 		INJECTED from C:\Users\TUSHAR JAIN\Travel-X\android\app\src\main\AndroidManifest.xml
 manifest
@@ -77,6 +77,7 @@ MERGED from [:cloud_firestore] C:\Users\TUSHAR JAIN\Travel-X\build\cloud_firesto
 MERGED from [:firebase_core] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:google_maps_flutter_android] C:\Users\TUSHAR JAIN\Travel-X\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:flutter_plugin_android_lifecycle] C:\Users\TUSHAR JAIN\Travel-X\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
 MERGED from [:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\9baafc8faf7ca496894bd197e67f88be\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\246793f755122fe14a5802655438cb75\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
@@ -91,16 +92,15 @@ MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\TUSHAR 
 MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\38e97678fc0b2269e99f6580e70ed26a\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\7660afef8b404e841080548748cb4e9a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e201e9ad108cf5dd9bf454f2a581d29d\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:17:1-44:12
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\8995b64f57965a8d98b9bcef0b9e6b51\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\2d36fe3092f409c15b974a0b68b21147\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\2b65e55a9915008cb6c2dbefc4edbde8\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\47ce10f9968c307b4fad9a997816355e\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\753eb1a0c54fbc66aa77f4ab04c7c514\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\3ff720be07735976176520d1c05fb799\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\3d8dcc37a877339951d4c25faeb59436\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c97a283a0deda8e7d2554004b8fcb16e\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:17:1-46:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d34cc289fcee5007a6bf25d31fd478b0\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ce879d391338d5a02d3c634796bbda28\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\67879e22102fb65217d23e347f5e9c0d\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c97a283a0deda8e7d2554004b8fcb16e\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d34cc289fcee5007a6bf25d31fd478b0\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\50f3608d6be96fa042dcc4a95d39b3d1\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\f45d3ddf6a6d0ce7b4397de13b9a0e57\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\a999757a42599769419a5f70358f2279\transformed\jetified-play-services-measurement-sdk-api-21.1.0\AndroidManifest.xml:17:1-28:12
@@ -115,23 +115,23 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TUSHAR JA
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\906f41b23948e23cf276f1b1ba5ed41e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\8fa8bdf086632123dcb3f9226ab7b2b9\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d411e96186971239cc9320701a4aa95b\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.6.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\acbce933e4b464a5224ed377a62db1f5\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\025f0ebb178f72f967988fd890b9b9c6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d363e3b5616f580c766e3e2b3c05f27d\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\9a15d0431946b4658756ca271d093b65\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\8a5514d4341f323606d890e29d4268b9\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c6290d38a27dcf8d064fa9cefcb89071\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4c666c731f72bca13b96ec6fea44ce5c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\7fb10bae9fc45a58e4816101326bc0e6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\61be2594815516b1d798e8de806d8dcb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4d571c0d2420042bbe5204d312a62bb2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ab7ce279708bbb9e6bfa95c7580f1bb9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\9a15d0431946b4658756ca271d093b65\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4c666c731f72bca13b96ec6fea44ce5c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\7fb10bae9fc45a58e4816101326bc0e6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\57003bf956257e647aeaeb419a007e24\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c6290d38a27dcf8d064fa9cefcb89071\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\b0ed3bc1190a335fc620be73cef0fa31\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\274a6366c1fa82a9cda5f98fe858df07\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ed9734c73cdec898947618088fbe87b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ea6a0879485e52a4f4039ca8778d8de8\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e9ca322f243d3b7ed3a19622385d8532\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\58e3540d7f5a5bac6af9a8f8fab44363\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e564f562ddf1e7bad87ac8206b50e367\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ce93ed83db244005132e68986ba1dad8\transformed\jetified-grpc-android-1.44.1\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\58e3540d7f5a5bac6af9a8f8fab44363\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 INJECTED from C:\Users\TUSHAR JAIN\Travel-X\android\app\src\debug\AndroidManifest.xml:1:1-8:12
 INJECTED from C:\Users\TUSHAR JAIN\Travel-X\android\app\src\debug\AndroidManifest.xml:1:1-8:12
 INJECTED from C:\Users\TUSHAR JAIN\Travel-X\android\app\src\debug\AndroidManifest.xml:1:1-8:12
@@ -177,6 +177,8 @@ MERGED from [:google_maps_flutter_android] C:\Users\TUSHAR JAIN\Travel-X\build\g
 MERGED from [:google_maps_flutter_android] C:\Users\TUSHAR JAIN\Travel-X\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_plugin_android_lifecycle] C:\Users\TUSHAR JAIN\Travel-X\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_plugin_android_lifecycle] C:\Users\TUSHAR JAIN\Travel-X\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\9baafc8faf7ca496894bd197e67f88be\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
@@ -205,8 +207,8 @@ MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\TUSHAR JAIN\.gradle\caches\t
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\7660afef8b404e841080548748cb4e9a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e201e9ad108cf5dd9bf454f2a581d29d\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e201e9ad108cf5dd9bf454f2a581d29d\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\8995b64f57965a8d98b9bcef0b9e6b51\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\8995b64f57965a8d98b9bcef0b9e6b51\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\2d36fe3092f409c15b974a0b68b21147\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\2d36fe3092f409c15b974a0b68b21147\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\2b65e55a9915008cb6c2dbefc4edbde8\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\2b65e55a9915008cb6c2dbefc4edbde8\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\47ce10f9968c307b4fad9a997816355e\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
@@ -215,16 +217,14 @@ MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\T
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\753eb1a0c54fbc66aa77f4ab04c7c514\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\3ff720be07735976176520d1c05fb799\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\3ff720be07735976176520d1c05fb799\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\3d8dcc37a877339951d4c25faeb59436\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\3d8dcc37a877339951d4c25faeb59436\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c97a283a0deda8e7d2554004b8fcb16e\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c97a283a0deda8e7d2554004b8fcb16e\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d34cc289fcee5007a6bf25d31fd478b0\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d34cc289fcee5007a6bf25d31fd478b0\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ce879d391338d5a02d3c634796bbda28\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ce879d391338d5a02d3c634796bbda28\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\67879e22102fb65217d23e347f5e9c0d\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\67879e22102fb65217d23e347f5e9c0d\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c97a283a0deda8e7d2554004b8fcb16e\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c97a283a0deda8e7d2554004b8fcb16e\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d34cc289fcee5007a6bf25d31fd478b0\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d34cc289fcee5007a6bf25d31fd478b0\transformed\jetified-play-services-measurement-sdk-21.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\50f3608d6be96fa042dcc4a95d39b3d1\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\50f3608d6be96fa042dcc4a95d39b3d1\transformed\jetified-play-services-measurement-impl-21.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\f45d3ddf6a6d0ce7b4397de13b9a0e57\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
@@ -253,26 +253,26 @@ MERGED from [androidx.activity:activity:1.0.0] C:\Users\TUSHAR JAIN\.gradle\cach
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\8fa8bdf086632123dcb3f9226ab7b2b9\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d411e96186971239cc9320701a4aa95b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d411e96186971239cc9320701a4aa95b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.6.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\acbce933e4b464a5224ed377a62db1f5\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\acbce933e4b464a5224ed377a62db1f5\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\025f0ebb178f72f967988fd890b9b9c6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\025f0ebb178f72f967988fd890b9b9c6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d363e3b5616f580c766e3e2b3c05f27d\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\d363e3b5616f580c766e3e2b3c05f27d\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\9a15d0431946b4658756ca271d093b65\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\9a15d0431946b4658756ca271d093b65\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\8a5514d4341f323606d890e29d4268b9\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\8a5514d4341f323606d890e29d4268b9\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c6290d38a27dcf8d064fa9cefcb89071\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c6290d38a27dcf8d064fa9cefcb89071\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4c666c731f72bca13b96ec6fea44ce5c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4c666c731f72bca13b96ec6fea44ce5c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\7fb10bae9fc45a58e4816101326bc0e6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\7fb10bae9fc45a58e4816101326bc0e6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\61be2594815516b1d798e8de806d8dcb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\61be2594815516b1d798e8de806d8dcb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4d571c0d2420042bbe5204d312a62bb2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4d571c0d2420042bbe5204d312a62bb2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ab7ce279708bbb9e6bfa95c7580f1bb9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ab7ce279708bbb9e6bfa95c7580f1bb9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\9a15d0431946b4658756ca271d093b65\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\9a15d0431946b4658756ca271d093b65\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4c666c731f72bca13b96ec6fea44ce5c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4c666c731f72bca13b96ec6fea44ce5c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\7fb10bae9fc45a58e4816101326bc0e6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\7fb10bae9fc45a58e4816101326bc0e6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\57003bf956257e647aeaeb419a007e24\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\57003bf956257e647aeaeb419a007e24\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c6290d38a27dcf8d064fa9cefcb89071\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\c6290d38a27dcf8d064fa9cefcb89071\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\b0ed3bc1190a335fc620be73cef0fa31\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\b0ed3bc1190a335fc620be73cef0fa31\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\274a6366c1fa82a9cda5f98fe858df07\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\274a6366c1fa82a9cda5f98fe858df07\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ed9734c73cdec898947618088fbe87b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
@@ -281,12 +281,12 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TUSHAR JAIN\.gra
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ea6a0879485e52a4f4039ca8778d8de8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e9ca322f243d3b7ed3a19622385d8532\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e9ca322f243d3b7ed3a19622385d8532\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\58e3540d7f5a5bac6af9a8f8fab44363\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\58e3540d7f5a5bac6af9a8f8fab44363\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e564f562ddf1e7bad87ac8206b50e367\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\e564f562ddf1e7bad87ac8206b50e367\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ce93ed83db244005132e68986ba1dad8\transformed\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
 MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\ce93ed83db244005132e68986ba1dad8\transformed\jetified-grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\58e3540d7f5a5bac6af9a8f8fab44363\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\58e3540d7f5a5bac6af9a8f8fab44363\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\TUSHAR JAIN\Travel-X\android\app\src\debug\AndroidManifest.xml
 INJECTED from C:\Users\TUSHAR JAIN\Travel-X\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
@@ -401,6 +401,20 @@ ADDED from [:firebase_core] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_core\in
 		ADDED from [:firebase_core] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 	android:name
 		ADDED from [:firebase_core] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-74
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:56
+	android:enabled
+		ADDED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from [:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-77
 service#com.lyokone.location.FlutterLocationService
 ADDED from [:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-17:56
 	android:enabled
