@@ -13,23 +13,23 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\TUSHAR JAIN\Travel-X\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->C:\Users\TUSHAR JAIN\Travel-X\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->C:\Users\TUSHAR JAIN\Desktop\Travel-X\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->C:\Users\TUSHAR JAIN\Desktop\Travel-X\android\app\src\debug\AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->C:\Users\TUSHAR JAIN\Travel-X\android\app\src\main\AndroidManifest.xml:4:5-79
-16-->C:\Users\TUSHAR JAIN\Travel-X\android\app\src\main\AndroidManifest.xml:4:22-76
+16-->C:\Users\TUSHAR JAIN\Desktop\Travel-X\android\app\src\main\AndroidManifest.xml:4:5-79
+16-->C:\Users\TUSHAR JAIN\Desktop\Travel-X\android\app\src\main\AndroidManifest.xml:4:22-76
 17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-17-->C:\Users\TUSHAR JAIN\Travel-X\android\app\src\main\AndroidManifest.xml:5:5-81
-17-->C:\Users\TUSHAR JAIN\Travel-X\android\app\src\main\AndroidManifest.xml:5:22-78
+17-->C:\Users\TUSHAR JAIN\Desktop\Travel-X\android\app\src\main\AndroidManifest.xml:5:5-81
+17-->C:\Users\TUSHAR JAIN\Desktop\Travel-X\android\app\src\main\AndroidManifest.xml:5:22-78
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-18-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
-18-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+18-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+18-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
 19    <uses-permission android:name="android.permission.WAKE_LOCK" />
-19-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-68
-19-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-65
+19-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-68
+19-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-65
 20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-20-->[:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-77
-20-->[:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-74
+20-->[:geolocator_android] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-77
+20-->[:geolocator_android] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-74
 21    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
 21-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\63652a35676c65154b40d132060590f2\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:25:5-79
 21-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\63652a35676c65154b40d132060590f2\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:25:22-76
@@ -99,37 +99,37 @@
 76            android:value="AIzaSyBYqsKEeDNucu1nmu4yrK3I4J11g7iG6us" />
 77
 78        <service
-78-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-18:19
+78-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-18:19
 79            android:name="com.google.firebase.components.ComponentDiscoveryService"
-79-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:14:18-89
+79-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:14:18-89
 80            android:directBootAware="true"
 80-->[com.google.firebase:firebase-common:20.1.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\38e97678fc0b2269e99f6580e70ed26a\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
 81            android:exported="false" >
 81-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4004acd391bc9ef449d3e8d6303f6705\transformed\jetified-firebase-auth-21.0.7\AndroidManifest.xml:66:13-37
 82            <meta-data
-82-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:85
+82-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:85
 83                android:name="com.google.firebase.components:io.flutter.plugins.firebase.analytics.FlutterFirebaseAppRegistrar"
-83-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-128
+83-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-128
 84                android:value="com.google.firebase.components.ComponentRegistrar" />
-84-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-82
+84-->[:firebase_analytics] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_analytics\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-82
 85            <meta-data
-85-->[:firebase_auth] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+85-->[:firebase_auth] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 86                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-86-->[:firebase_auth] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+86-->[:firebase_auth] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 87                android:value="com.google.firebase.components.ComponentRegistrar" />
-87-->[:firebase_auth] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+87-->[:firebase_auth] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 88            <meta-data
-88-->[:cloud_firestore] C:\Users\TUSHAR JAIN\Travel-X\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+88-->[:cloud_firestore] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 89                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-89-->[:cloud_firestore] C:\Users\TUSHAR JAIN\Travel-X\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+89-->[:cloud_firestore] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 90                android:value="com.google.firebase.components.ComponentRegistrar" />
-90-->[:cloud_firestore] C:\Users\TUSHAR JAIN\Travel-X\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+90-->[:cloud_firestore] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 91            <meta-data
-91-->[:firebase_core] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+91-->[:firebase_core] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 92                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-92-->[:firebase_core] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+92-->[:firebase_core] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 93                android:value="com.google.firebase.components.ComponentRegistrar" />
-93-->[:firebase_core] C:\Users\TUSHAR JAIN\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+93-->[:firebase_core] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 94            <meta-data
 94-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\4004acd391bc9ef449d3e8d6303f6705\transformed\jetified-firebase-auth-21.0.7\AndroidManifest.xml:67:13-69:85
 95                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -156,25 +156,25 @@
 105-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\efcaafdb8675473682ed2a1c307441a2\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
 106        </service>
 107        <service
-107-->[:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:56
+107-->[:geolocator_android] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:56
 108            android:name="com.baseflow.geolocator.GeolocatorLocationService"
-108-->[:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-77
+108-->[:geolocator_android] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-77
 109            android:enabled="true"
-109-->[:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-35
+109-->[:geolocator_android] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-35
 110            android:exported="false"
-110-->[:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-37
+110-->[:geolocator_android] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-37
 111            android:foregroundServiceType="location" />
-111-->[:geolocator_android] C:\Users\TUSHAR JAIN\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-53
+111-->[:geolocator_android] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-53
 112        <service
-112-->[:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-17:56
+112-->[:location] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-17:56
 113            android:name="com.lyokone.location.FlutterLocationService"
-113-->[:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-71
+113-->[:location] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-71
 114            android:enabled="true"
-114-->[:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-35
+114-->[:location] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-35
 115            android:exported="false"
-115-->[:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+115-->[:location] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
 116            android:foregroundServiceType="location" />
-116-->[:location] C:\Users\TUSHAR JAIN\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-53
+116-->[:location] C:\Users\TUSHAR JAIN\Desktop\Travel-X\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-53
 117
 118        <uses-library
 118-->[androidx.window:window:1.0.0-beta04] C:\Users\TUSHAR JAIN\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40

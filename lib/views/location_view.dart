@@ -13,7 +13,7 @@ class _LocationViewState extends State<LocationView> {
   late GoogleMapController googleMapController;
 
   static const CameraPosition initialCameraPosition =
-      CameraPosition(target: LatLng(28.704289, 77.095925), zoom: 14);
+      CameraPosition(target: LatLng(28.7144068, 77.0909803), zoom: 14);
 
   Set<Marker> markers = {};
 

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\TUSHAR JAIN\\Travel-X\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\TUSHAR JAIN\\Desktop\\Travel-X\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\TUSHAR JAIN\\Travel-X\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\TUSHAR JAIN\\Desktop\\Travel-X\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
